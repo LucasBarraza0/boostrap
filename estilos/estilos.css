@@ -1,0 +1,16 @@
+.fondo-nav{
+    background-color: indigo ;
+}
+.logo{
+    height: 75px;
+    padding: 0 40px;
+    line-height: 80px;
+
+}
+.carousel-inner img{
+    width: 100%;
+}
+.nft6img{
+    height: 200px;
+    width: 100px;
+}
